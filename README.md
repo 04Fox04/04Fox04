@@ -46,13 +46,13 @@
 <a href="https://github.com/04Fox04" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+<a href="https://t.me/K_i_r_i_l_l_S_O" target="_blank">
+<img src=https://www.studio-parquet.ru/image/telegram.png alt=telegram style="margin-bottom: 5px;"  height="35" width="124"/>
+</a> 
 <a href="https://instagram.com/kir._?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-<a href="https://t.me/K_i_r_i_l_l_S_O" target="_blank">
-<img src=https://www.studio-parquet.ru/image/telegram.png alt=telegram style="margin-bottom: 5px;"  height="35" width="124"/>
-</a>  
-</div>  
+</div> 
   
 
 <br/>  
