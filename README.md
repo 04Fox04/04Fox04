@@ -1,4 +1,4 @@
-### <div align="center">Привет, меня зовут Кирилл 👋</div>  
+##### <div align="center" style="color: #173fc9">Привет, меня зовут Кирилл 👋</div>  
   
 
 - 🔭 В настоящее время я работаю над проектом [Triland](https://github.com/04Fox04/Triland)  
@@ -59,4 +59,4 @@
 
 
 ## Github Статистика
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=04Fox04&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=04Fox04&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
