@@ -51,7 +51,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 <a href="https://t.me/K_i_r_i_l_l_S_O" target="_blank">
-<img src=https://cojo.ru/wp-content/uploads/2022/12/telegram-2.webp alt=telegram style="margin-bottom: 5px;" />
+<img src=https://cojo.ru/wp-content/uploads/2022/12/telegram-2.webp alt=telegram style="margin-bottom: 5px;"  height="28" width="124"/>
 </a>  
 </div>  
   
